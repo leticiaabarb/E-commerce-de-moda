@@ -1,0 +1,53 @@
+body {
+    background-image: url("background.png");
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+}
+
+h1 {
+	background-color: rgb(112, 99, 99);
+	padding: 10px;
+    height: 134px;;
+    width: 130px;
+    display: block;
+    text-indent: -9999px;
+    background-image:url("logo_GK.png");
+    margin: 40px;
+}
+
+h2 {
+	border-bottom: 2px solid #333333;
+	margin-top: 30px;
+    text-align: center;
+}
+
+header {
+    position: relative;
+}
+
+p {
+    text-align: center;
+}
+
+strong {
+    color:#333333;
+    text-align: center;
+    font-size:x-large;
+}
+
+#principais {
+    text-align: center;
+    background-color: gray;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+#footer {
+    background-image: url(fundo-rodape.png);
+    clear: both;
+	padding: 20px 0;
+}
+
